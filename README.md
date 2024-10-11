@@ -1,13 +1,14 @@
-# UDACITY_DS_DisasterResponseProject
+# Disaster Response Pipeline Project
 Second Project for UDACITY Data Science Nanodegree
 
-# Disaster Response Pipeline Project
-
 Check before start the scikit-learn version (it should be not older than 0.24) and upgrade if necessary:
-pip show scikit-learn 
+
+pip show scikit-learn
+
 pip install --upgrade scikit-learn
 
-### Instructions:
+
+## Instructions:
 
 1. Run the following commands in the project's root directory to set up your database and model.
 
