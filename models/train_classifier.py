@@ -189,7 +189,7 @@ def main():
         print('Saving model...\n    MODEL: {}'.format(model_filepath))
         save_model(model, model_filepath)
 
-        #print('Trained model saved!')
+        print('Trained model saved!')
 
     else:
         print('Please provide the filepath of the disaster messages database '\
